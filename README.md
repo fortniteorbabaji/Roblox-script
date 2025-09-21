@@ -1,4 +1,4 @@
-# Roblox-script
+
 -- Place ce script en LocalScript dans StarterGui
 
 local Players = game:GetService("Players")
